@@ -2,6 +2,8 @@
 
 Andrija Sunjic
 
+[Test Screenshot](THE_TESTS.png)
+
 1) I would do "1. Within a Github action that runs whenever code is pushed"
    Having a set standard for all code contribution is the best way possible.
    You don't want to wait until development is complete because that is insane,
